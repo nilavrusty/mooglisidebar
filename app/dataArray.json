@@ -1,0 +1,144 @@
+[
+    {
+        "heading": "HOME",
+        "list": [
+            {
+                "heading": "Overview",
+                "icon": "overview.svg",
+                "iconActive": "overviewHighlighted.svg",
+                "href": "/overview"
+            }
+        ]
+    },
+    {
+        "heading": "COMPANY",
+        "list": [
+            {
+                "heading": "Details",
+                "icon": "details.svg",
+                "iconActive": "detailsHighlighted.svg",
+                "href": "/details"
+            }
+        ]
+    },
+    {
+        "heading": "MEASURE",
+        "list": [
+            {
+                "heading": "Scope1",
+                "href": "/Scope1",
+                "icon": "scope1.svg",
+                "iconActive": "scope1Highlighted.svg",
+                "list": [
+                    {
+                        "heading": "Overview",
+                        "href": "/Scope1/overview"
+                    },
+                    {
+                        "heading": "Stationary Combustion",
+                        "href": "/Scope1/StationaryCombustion"
+                    },
+                    {
+                        "heading": "Mobile Combustion",
+                        "href": "/Scope1/MobileCombustion"
+                    },
+                    {
+                        "heading": "Fugutive Combustion",
+                        "href": "/Scope1/FugutiveCombustion"
+                    }
+                ]
+            },
+            {
+                "heading": "Scope2",
+                "href": "/Scope2",
+                "icon": "scope2.svg",
+                "iconActive": "scope2Highlighted.svg",
+                "list": [
+                    {
+                        "heading": "Energy",
+                        "href": "/Scope2/Energy"
+                    }
+                ]
+            },
+            {
+                "heading": "Scope3",
+                "href": "/Scope3",
+                "icon": "scope3.svg",
+                "iconActive": "scope3Highlighted.svg",
+                "list": [
+                    {
+                        "heading": "Upstream Activities",
+                        "href": "/Scope3/UpstreamActivities"
+                    },
+                    {
+                        "heading": "Downstream Activities",
+                        "href": "/Scope3/DownstreamActivities"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "heading": "INVENTORY",
+        "list": [
+            {
+                "heading": "Results",
+                "icon": "lineresults.svg",
+                "iconActive": "lineresultsHighlighted.svg",
+                "href": "/results"
+            },
+            {
+                "heading": "Reports",
+                "icon": "analyticsreports.svg",
+                "iconActive": "analyticsreportsHighlighted.svg",
+                "href": "/reports"
+            }
+        ]
+    },
+    {
+        "heading": "PLANS",
+        "list": [
+            {
+                "heading": "Short term",
+                "icon": "shortterm.svg",
+                "iconActive": "shorttermHighlighted.svg",
+                "href": "/shortTerm"
+            },
+            {
+                "heading": "Long term",
+                "icon": "longterm.svg",
+                "iconActive": "longtermHighlighted.svg",
+                "href": "/longTerm"
+            },
+            {
+                "heading": "Mitigation",
+                "icon": "mitigation.svg",
+                "iconActive": "mitigationHighlighted.svg",
+                "href": "/mitigation"
+            },
+            {
+                "heading": "Net Zero",
+                "icon": "leafleaf.svg",
+                "iconActive": "leafleafHighlighted.svg",
+                "href": "/netZero"
+            }
+        ]
+    },
+    {
+        "heading": "IMPACT",
+        "list": [
+            {
+                "heading": "Mupi",
+                "icon": "basicmupi.svg",
+                "iconActive": "basicmupiHighlighted.svg",
+                "href": "/mupi"
+            },
+            {
+                "heading": "App",
+                "icon": "mobile.svg",
+                "iconActive": "mobileHighlighted.svg",
+                "href": "/app"
+            }
+        ]
+    }
+]
